@@ -83,3 +83,6 @@ ms2gt/src/xy2ll/xy2ll
 
 # PyCharm configs
 .idea
+
+# MacOS Files
+.DS_Store
